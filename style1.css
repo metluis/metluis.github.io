@@ -1,0 +1,321 @@
+.cabecera {
+	width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: #040b2f;
+}
+
+.cabecera .enbacezado {
+	 background-color: #000000;
+    width: 100%;
+    height: 40px;
+}
+.enbacezado a .usuario {
+	float: right;
+    margin-left: 28px;
+    margin-right: 105px;
+    margin-top: 5px;
+}
+.cabecera .enbacezado .preguntas {
+	margin-left: 19px;
+    float: right;
+    margin-top: 5px;
+}
+
+
+.cabecera .logo {
+    background-color: #040b2f;
+    width: 25%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    float: left;
+    margin-bottom: 0px;	
+}
+.contenido .ofertas .tituloofertas {
+    font-family: black-ops-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    margin-top: 27px;
+    text-align: center;
+    margin-bottom: 45px;
+
+}
+
+
+.cabecera .menu {
+	width: 55%;
+    clear: right;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-top: -29px;
+    margin-left: 412px;
+    float: right;
+}
+.cabecera .menu ul {
+	float: right;
+	width: 99%;
+}
+
+
+.menu ul li {
+	text-decoration: none;
+	list-style-type: none;
+}
+ul li a {
+	text-decoration: none;
+	color: #FFFFFF;
+	float: left;
+	font-size: medium;
+	margin-right: 91px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	
+}
+.piedepagina {
+	width: 100%;
+    float: left;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: #040b2f;
+    color: #FFFFFF;
+    max-width: 1600px;
+}
+.piedepagina .container-body {
+	display: flex;
+    width: 100%;
+    margin-top: 30px;
+}
+.piedepagina .container-body .colum1 {
+	max-width: 400px;
+    margin-left: 250px;
+    text-align: center;
+}
+.piedepagina .container-body .colum2 {
+	max-width: 400px;
+    margin-left: 250px;
+    text-align: center;
+}
+.container-body .colum2 .row {
+	margin-top: 20px;
+    display: flex;
+}
+.piedepagina .container-body .colum3 {
+	max-width: 400px;
+    margin-left: 250px;
+    text-align: center;
+}
+.colum2 .row img {
+	width: 35px;
+	height: 36px;
+}
+.colum2 .row label {
+	margin-top: 14px;
+    font-size: 14px;
+    margin-left: 24px;   
+}
+.container-body .colum2 h6 {
+	font-size: 16px;
+}
+.piedepagina .container-body .colum3 {
+	max-width: 400px;
+    margin-left: 250px;
+    text-align: center;
+}
+.container-body .colum3 h6 {
+	font-size: 16px;
+}
+.container-body .colum3 p {
+	font-size: 14px;
+    margin-top: 14px;
+}
+
+.container-body .colum1 h6 {
+	font-size: 16px;
+}
+.container-body .colum1 p {
+	font-size: 14px;
+    margin-top: 20px;
+}
+.ofertas a .imagenofertas {
+    margin-left: 142px;
+    float: left;
+    margin-right: 10px;
+}
+.contenido .ofertas .p1 {
+    font-family: aclonica;
+    font-size: 18px;
+    text-align: justify;
+    margin-right: 0px;
+    padding-right: 140px;
+    line-height: 40px;
+}
+.cuerpo .contenido .ofertas {
+    box-sizing: border-box;
+	padding: 15px;
+}
+
+
+.contenido .aclamados .tituloaclamados {
+    font-family: black-ops-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    text-align: center;
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+.contenido .mejorescalificados .titulomejores {
+    font-family: black-ops-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.cuerpo .contenido .alianzas {
+    text-align: center;
+    margin-bottom: 65px;
+}
+.alianzas a img {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.contenido .alianzas .tituloalianza {
+    font-family: black-ops-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contenido .alianzas .p1 {
+    font-family: aclonica;
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+    margin-top: 0px;
+    margin-bottom: 45px;
+}
+.cuerpo .contenido .frase {
+    background-color: #040b2f;
+}
+.contenido .frase .p1 {
+    font-family: black-ops-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 40px;
+}
+.contenido .ubicacion .titulotienda {
+    font-family: black-ops-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    text-align: center;
+}
+.contenido .ubicacion .mapa {
+    text-align: center;
+}
+
+
+.contenido .frase .p2 {
+    font-family: aclonica;
+    font-style: normal;
+    font-weight: 400;
+    color: #FFFEFE;
+    text-align: center;
+    font-size: x-large;
+    line-height: 55px;
+    margin-top: 40px;
+    margin-bottom: 45px;
+}
+main .contenedor .somos {
+    font-family: aclonica;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 51px;
+}
+.cuerpo main .contenedor {
+    width: 90%;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-left: 56px;
+}
+main .contenedor p {
+    margin-bottom: 10px;
+    text-align: justify;
+    font-size: x-large;
+}
+main .contenedor .somos {
+    font-family: black-ops-one;
+    font-style: normal;
+    font-weight: 400;
+}
+
+main .contenedor .p1 {
+    width: 50%;
+    float: right;
+}
+main .contenedor .p2 {
+	 width: 50%;
+    float: left;
+}
+main .contenedor .imagen2 {
+    float: right;
+}
+.contenido .aclamados .tercero {
+}
+.contenido .aclamados img {
+    float: left;
+}
+.cuerpo .contenido .aclamados {
+    max-width: 1200px;
+    display: block;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-left: 150px;
+    margin-bottom: 40px;
+    margin-top: 28px;
+}
+.contenido .aclamados .primero {
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.contenido .aclamados .segundo {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.contenido .aclamados .tercero {
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.cuerpo .contenido .aclamados {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.btn-chat{
+	position: fixed;
+	width: 55px;
+	height: 55px;
+	line-height: 55px;
+	bottom: 30px;
+	right: 30px;
+	background: #0df053;
+	color: #fff;
+	border-radius: 50px;
+	text-align: right;
+	font-size: 30px;
+	box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+	z-index: 100;
+}
+.btn-chat:hover{
+	text-decoration: none;
+	color: #0df053;
+	background: #fff;
+}
